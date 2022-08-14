@@ -1,0 +1,19 @@
+.Nav{
+
+    width: 100%;
+    background-color: green;
+    position: sticky;
+    top: 0;
+    justify-content: space-around;
+    padding-left: 10px;
+}
+.Links
+{
+ display: inline-flex;
+ justify-content: space-between;
+    width:25%;
+
+}
+h2:hover{
+    font-size: large;
+}
